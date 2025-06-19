@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dries</h1>
 <h3 align="center">A passionate frontend/backend developer from Belgium</h3>
 
-- 🔭 I’m currently working on [FetchEmAll](https://github.com/ramzy35/Fetch-Em-All)
+- 🔭 I’m currently working on [express-blog](https://github.com/DVdBdev/express-blog)
 
 - 🌱 I’m currently learning **React / Vue**
 
