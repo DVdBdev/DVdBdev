@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dries</h1>
 <h3 align="center">A passionate frontend/backend developer from Belgium</h3>
 
-- 🔭 I’m currently working on [express-blog](https://github.com/DVdBdev/express-blog)
+- 🔭 I’m currently working on [blog-app](https://github.com/DVdBdev/blog-app)
 
-- 🌱 I’m currently learning **React / Vue**
+- 🌱 I’m currently learning **React / NextJS**
 
 - 📫 How to reach me **Dries.Van.Den.Brande@proton.me**
 
